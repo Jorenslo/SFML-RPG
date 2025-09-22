@@ -1,0 +1,14 @@
+﻿  SFML RPG.cpp
+C:\Personal\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'SFML%20RPG.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\Personal\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  Generating code
+  10 of 10 functions (100.0%) were compiled.
+    9 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML RPG.vcxproj -> C:\Personal\Projects\SFML RPG\x64\Release\SFML RPG.exe
